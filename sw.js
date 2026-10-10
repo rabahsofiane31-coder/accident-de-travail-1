@@ -1,4 +1,4 @@
-const CACHE = 'accident-travail-v3';
+const CACHE = 'accident-travail-v4';
 const FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
